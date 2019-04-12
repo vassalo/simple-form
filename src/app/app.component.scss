@@ -1,0 +1,24 @@
+div.form-container {
+  min-width: 200px;
+  max-width: 400px;
+  margin: 20px auto;
+}
+
+mat-card {
+  padding: 0;
+}
+
+mat-card-title {
+  margin: 0;
+  padding: 12px;color: rgba(0,0,0,.54);
+
+background: rgba(60, 60, 60, 0.13);
+}
+
+mat-card-content {
+  padding: 12px 20px;
+}
+
+.full-width {
+  width: 100%;
+}
